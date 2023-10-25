@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RanjanSSGJ
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me insta
 
